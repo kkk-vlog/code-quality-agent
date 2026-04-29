@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+gitpython
+radon
+flake8
+openai
+python-dotenv
+rich
